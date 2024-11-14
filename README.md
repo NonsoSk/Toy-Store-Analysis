@@ -56,9 +56,7 @@ As evident in the picture above, the following relationships were created:
 
 - Sales Table to Calendar Table: Linked on “Date” to analyze sales data by day, month, quarter, and year.
 
-- Inventory Table to Products Table: Linked on “Product_ID” to match inventory levels to each product.
 
-- Inventory Table to Stores Table: Linked on “Store_ID” to analyze stock by location.
 
 In profiling the data, I discovered that 
 
