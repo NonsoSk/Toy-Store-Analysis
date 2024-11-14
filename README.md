@@ -45,8 +45,11 @@ To understand how we modelled our data, let us first consider the tables we work
 - Sales
 - Stores
   
-The following relationships were created:
 
+
+<img width="608" alt="Modelling" src="https://github.com/user-attachments/assets/c835809a-9d8a-4712-987e-ce26b3b0cb09">
+
+As evident in the picture above, the following relationships were created:
 - Sales Table to Products Table: Joined on “Product_ID” to bring in product details for each sale.
 
 - Sales Table to Stores Table: Linked via “Store_ID” to allow analysis by store location and region.
